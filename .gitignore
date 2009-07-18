@@ -1,0 +1,11 @@
+#### '.gitignore'
+# xcode noise
+build/*
+*.modelv3
+
+# SVN directories
+.svn
+
+# osx noise
+.DS_Store
+profile
